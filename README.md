@@ -6,6 +6,10 @@ Git and Deployment workshop:
   - Created by Rama Kaorma
   - Edited and reviewed by Kasie Wang
 
+Git and Deployment Guide:
+  CISSA 2023, Catalyst workshops
+  - Created by Rama Kaorma
+
 Introduction to microbits workshop:
   Girl Power in Engineering and IT 2023, Girl Power Camp
   - Created by Rama Kaorma
