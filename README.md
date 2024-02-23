@@ -14,3 +14,8 @@ Introduction to microbits workshop:
   Girl Power in Engineering and IT 2023, Girl Power Camp
   - Created by Rama Kaorma
   - Referencing Grok Microbit Crash Course
+
+Game Development Workshop:
+  CISSA 2023, 2024
+  - Intro to object-oriented programming - By Rama Kaorma
+  - Make Space invaders with GameMaker studio 2 - By EDEN XU
